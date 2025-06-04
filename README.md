@@ -39,3 +39,7 @@ O conjunto de dados contém informações de 50 clientes, incluindo:
 - `satisfacao_clientela.csv`: Conjunto de dados utilizado na análise.
 - `ProjetoETLsatisfacao_clientela.ipynb`: Notebook contendo o código e as visualizações.
 - `README.md`: Documentação do projeto.
+
+
+
+## Produzido por Gustavo H. S. Santos
